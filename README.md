@@ -2,6 +2,9 @@
 
 This plugin provides a means of sharing keybinds between bspwm, vim and tmux, allowing Super + HJKL to navigate both between system windows and vim windows. The overall structure and the vim plugin are adapted from [Chris Toomey's Vim Tmux Navigator](https://github.com/christoomey/vim-tmux-navigator) and [Rowan Tran Vim Bspwm Navigator](https://github.com/rowantran/vim-bspwm-navigator).
 
+## Preview
+https://github.com/joaopedroaat/vim-bspwm-tmux-navigator/assets/37046927/2711ea57-6328-4584-acd3-7bbbe647d343
+
 ## Installation
 
 ### Dependencies
