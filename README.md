@@ -46,7 +46,12 @@ return {
 }
 ```
 
+### Tmux
 
+using tpm
+```bash
+set -g @plugin 'joaopedroaat/vim-bspwm-tmux-navigator'
+```
 
 ### bspwm/sxhkd
 
